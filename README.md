@@ -13,7 +13,7 @@ This is a Laravel-based application named Laravel-Task. Below are the steps to s
 ### Step 1: Clone the repository
 
 <pre>
-<code>[git clone https://github.com/Pulkit127/laraveltask.git] && 
+<code>git clone https://github.com/Pulkit127/laraveltask.git && 
 cd laraveltask
 </code>
 
@@ -34,7 +34,7 @@ cd laraveltask
 Update the `.env` file with the following:
 
 <pre>
-<code>APP_NAME=Laravel-Task
+<code>APP_NAME=laraveltask
 APP_ENV=local
 APP_KEY=
 APP_DEBUG=false
@@ -51,8 +51,8 @@ Ensure the database settings are properly configured in the `.env` file:
 <code>DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=
-DB_USERNAME=
+DB_DATABASE=laraveltask
+DB_USERNAME=root
 DB_PASSWORD=
 </code>
 </pre>
