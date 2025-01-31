@@ -69,6 +69,12 @@ DB_PASSWORD=
 <code>php artisan migrate</code>
 </pre>
 
+### Step 6: Run Storage Link
+
+<pre>
+<code>php artisan storage:link</code>
+</pre>
+
 ## Running the Application
 
 Start the Laravel development server:
